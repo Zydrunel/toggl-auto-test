@@ -1,0 +1,23 @@
+{
+    "name": "toggl-auto-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "cy:open": "cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Zydrunel/toggl-auto-test.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Zydrunel/toggl-auto-test/issues"
+    },
+    "homepage": "https://github.com/Zydrunel/toggl-auto-test#readme",
+    "dependencies": {
+        "cypress": "^4.3.0"
+    },
+    "devDependencies": {}
+}
